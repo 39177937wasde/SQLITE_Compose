@@ -111,7 +111,6 @@ fun SimpleOutlinedTextFieldSample(/*onClick: () -> Unit*/) {
 
                 Button(
                     onClick = {
-
                     },
                     modifier = Modifier.clickable {
                     }
